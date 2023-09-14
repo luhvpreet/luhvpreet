@@ -12,11 +12,12 @@
 
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%E34F26.svg?&style=for-the-badge&logo=html5&logoColor=E34F26&color=282828"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%1572B6.svg?&style=for-the-badge&logo=css3&logoColor=1572B6&color=282828"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=282828"/>
-  <br>
-  <img alt="React" src="https://img.shields.io/badge/react%20-%61DAFB.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&color=282828"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%F05032.svg?&style=for-the-badge&logo=git&logoColor=F05032&color=282828"/>
+  <br>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%1572B6.svg?&style=for-the-badge&logo=css3&logoColor=1572B6&color=282828"/>
+  <img alt="React" src="https://img.shields.io/badge/react%20-%61DAFB.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&color=282828"/>
+
 </div>
 
 <br><br>
