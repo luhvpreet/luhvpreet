@@ -32,7 +32,7 @@
 
 <div width="100%" align="center">
   <a align="center" href="https://luhvpreet.github.io/FrontendPractice-oh.studio/" title="OH.STUDIO">
-      <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=FrontendPractice-oh.studio&theme=vision-friendly-dark&color=00cc99&icon_color=00cc99&&border_color=00cc99&bg_color=00000000&border_radius=10">
+      <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=FrontendPractice-oh.studio&theme=vision-friendly-dark&font_color=00cc99&&icon_color=00cc99&&border_color=00cc99&bg_color=00000000&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://luhvpreet.github.io/HTMLEmailDevelopment-Hero-Newsletter/" title="Newsletter Email">
