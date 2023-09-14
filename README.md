@@ -33,11 +33,11 @@
 
 <div width="100%" align="center">
   <a align="center" href="https://luhvpreet.github.io/FrontendPractice-oh.studio/" title="OH.STUDIO">
-      <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=FrontendPractice-oh.studio&theme=vision-friendly-dark&icon_color=ffffff&&border_color=ffffff&title_color=ffffff&bg_color=00000000&border_radius=10">
+      <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=FrontendPractice-oh.studio&theme=vision-friendly-dark&icon_color=ffffff&&border_color=005f73&title_color=ffffff&bg_color=00000000&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://luhvpreet.github.io/HTMLEmailDevelopment-Hero-Newsletter/" title="Newsletter Email">
-      <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=HTMLEmailDevelopment-Hero-Newsletter&theme=vision-friendly-dark&icon_color=ffffff&&border_color=ffffff&title_color=ffffff&bg_color=00000000&border_radius=10">
+      <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=HTMLEmailDevelopment-Hero-Newsletter&theme=vision-friendly-dark&icon_color=ffffff&&border_color=005f73&title_color=ffffff&bg_color=00000000&border_radius=10">
   </a>
 </div>
 
@@ -45,11 +45,11 @@
 
 <div width="100%" align="center">
     <a align="center" href="https://luhvpreet.github.io/HTMLEmailDevelopment-Apparel-PromotionalEmail/" title="Promotional Email">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=HTMLEmailDevelopment-Apparel-PromotionalEmail&theme=vision-friendly-dark&icon_color=ffffff&&border_color=ffffff&title_color=ffffff&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=HTMLEmailDevelopment-Apparel-PromotionalEmail&theme=vision-friendly-dark&icon_color=ffffff&&border_color=005f73&title_color=ffffff&bg_color=00000000&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;  
     <a align="center" href="https://luhvpreet.github.io/HTMLEmailDevelopment-TravellingJake-BlogEmail/" title="Blog Email">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=HTMLEmailDevelopment-TravellingJake-BlogEmail&theme=vision-friendly-dark&icon_color=ffffff&&border_color=ffffff&title_color=ffffff&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=HTMLEmailDevelopment-TravellingJake-BlogEmail&theme=vision-friendly-dark&icon_color=ffffff&&border_color=005f73&title_color=ffffff&bg_color=00000000&border_radius=10">
   </a>
 </div>
 
