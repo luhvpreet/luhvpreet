@@ -1,9 +1,11 @@
+<br />
+<br />
+<br />
+
 <div align=center>
   <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&center=true&width=435&lines=Hello!+My+name+is+Lovepreet+Singh;I'm+a+Front+End+Developer;I'm+a+HTML+Email+Developer" alt="Typing SVG" /></a>
 </div>
 
-<br />
-<br />
 <br />
 <br />
 <br />
