@@ -15,7 +15,8 @@
   <img alt="React" src="https://img.shields.io/badge/react%20-%61DAFB.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&color=282828"/>
 </div>
 
-<br><br>
+<br />
+<br />
 
 <div align="center">
   <a href="https://luhvpreet.github.io/MyPortfolio/">
@@ -36,6 +37,8 @@
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://luhvpreet.github.io/HTMLEmailDevelopment-Hero-Newsletter/" title="Newsletter Email">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&HTMLEmailDevelopment-Hero-Newsletter&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <a align="center" href="https://luhvpreet.github.io/HTMLEmailDevelopment-Hero-Newsletter/" title="Newsletter Email">
+      <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=HTMLEmailDevelopment-Hero-Newsletter&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
   </a>
 </div>
 
