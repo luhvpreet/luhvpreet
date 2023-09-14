@@ -1,5 +1,7 @@
 <br />
 
+<hr />
+
 <div align=center>
   <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00cc99&center=true&width=435&lines=Hello!+My+name+is+Lovepreet+Singh;I'm+a+Front+End+Developer;I'm+a+HTML+Email+Developer" alt="Typing SVG" /></a>
 </div>
@@ -24,7 +26,7 @@
   </a>
 </div>
 
-<hr>
+<hr />
 
 <h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;M Y &nbsp; B E S T &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
 
@@ -57,3 +59,7 @@
 <h4 align="center">
   <a href="https://github.com/luhvpreet?tab=repositories" title="Show Repositories">See More</a>
 </h4>
+
+<hr />
+
+<br />
