@@ -28,7 +28,7 @@
 
 <h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;M Y &nbsp; B E S T &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
 
-<hr />
+<br />
 
 <div width="100%" align="center">
   <a align="center" href="https://luhvpreet.github.io/FrontendPractice-oh.studio/" title="OH.STUDIO">
