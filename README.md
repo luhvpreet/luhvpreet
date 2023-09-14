@@ -41,6 +41,14 @@
   </a>
 </div>
 
+<br />
+
+<div width="100%" align="center">
+  <a align="center" href="https://luhvpreet.github.io/FrontendPractice-oh.studio/" title="OH.STUDIO">
+      <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=luhvpreet&repo=FrontendPractice-oh.studio&theme=vision-friendly-dark&icon_color=0a9396&&border_color=005f73&title_color=94d2bd&bg_color=00000000&border_radius=10">
+  </a>
+</div>
+
 <br/>
 
 <div width="100%" align="center">
