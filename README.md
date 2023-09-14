@@ -3,12 +3,11 @@
 </div>
 
 <br />
+<br />
+<br />
+<br />
+<br />
 
-<div align=center>
-  <a href="https://github.com/luhvpreet/">
-    <img src="https://github-readme-stats.luhvpreet/api?username=luhvpreet&show_icons=true&icon_color=F0A400&theme=vision-friendly-dark&bg_color=00000000&hide_title=true&hide_border=true&hide=prs&count_private=true" />
-  </a>
-</div>
 
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%E34F26.svg?&style=for-the-badge&logo=html5&logoColor=E34F26&color=282828"/>
