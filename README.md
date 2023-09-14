@@ -1,15 +1,10 @@
 <br />
-<br />
-<br />
 
 <div align=center>
   <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&center=true&width=435&lines=Hello!+My+name+is+Lovepreet+Singh;I'm+a+Front+End+Developer;I'm+a+HTML+Email+Developer" alt="Typing SVG" /></a>
 </div>
 
 <br />
-<br />
-<br />
-
 
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%E34F26.svg?&style=for-the-badge&logo=html5&logoColor=E34F26&color=282828"/>
@@ -18,7 +13,6 @@
   <br>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%1572B6.svg?&style=for-the-badge&logo=css3&logoColor=1572B6&color=282828"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%61DAFB.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&color=282828"/>
-
 </div>
 
 <br><br>
