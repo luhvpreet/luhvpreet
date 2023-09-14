@@ -61,7 +61,7 @@
   </a>
 </div>
 
-<br>
+<br />
 
 <h4 align="center">
   <a href="https://github.com/luhvpreet?tab=repositories" title="Show Repositories">See More</a>
